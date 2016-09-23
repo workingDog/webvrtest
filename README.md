@@ -12,7 +12,7 @@ MIL-STD-2525D and NATO STANAG APP6(b).
 
 ## Usage
 
-Install [Cesium](http://cesiumjs.org/).
+Install [Cesium](http://cesiumjs.org/) version 1.25 or greater.
 
 Download [milsymbol.js](https://github.com/spatialillusions/milsymbol/tree/master/dist) and put it in the 
 "Cesium/Apps" directory.
